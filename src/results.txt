@@ -1,0 +1,176 @@
+ngày nay có nước máy rồi 
+ giếng đình nhung nhớ bóng người gần xa 
+ bây giờ giếng đình quê ta 
+ giữ làm kỷ niệm hương hoa của làng 
+ đò ngang đã thả neo rồi 
+ đêm buông bến vắng có người muốn sang 
+ mái chèo thương kẻ lỡ làng 
+ nhổ neo rẽ ánh trăng vàng sang sông 
+ xưa kia ai biết ai đâu 
+ vần thơ nối bắc nhịp cầu duyên thơ 
+ da mồi đầu tóc bạc phơ 
+ mặc ai duyên phận ai chờ ai mong 
+ mặc ai tìm lá diêu vông 
+ còn tôi vương mối bòng bong của người 
+ duyên thơ tung hứng người ơi 
+ người đừng hờ hững để tôi nản lòng 
+ tần ngần dưới nắng chờ ai 
+ cho hoa rau muống tím hoài bờ sông 
+ để con thơ dại mặc chồng 
+ có con da trắng má hồng ngày xưa 
+ quê người sớm nắng chiều mưa 
+ dập dừu ướm gợi vào thưa ra trình 
+ đò nghiêng sóng nước bồng bềnh 
+ dáng hình ảo ảnh dập dềnh đô la 
+ dòng sông đất tổ ông cha 
+ cho hoa rau muống lan xa trời chiều 
+ hà đông tên gọi quê ta 
+ chiều nay bao đứa con xa về làng 
+ ung dung vui bước trên đàng 
+ ngỡ ngàng trông thấy cổng làng mới xây
+ Accuracy, tensor([[-2.8310,  2.4852]], grad_fn=<AddmmBackward>) 
+
+===========================================
+
+ để giờ còn chỉ mình tôi 
+ đôi môi kẻ chỉ người xinh đâu rồi 
+ mai đi dạm bán bình vôi 
+ chắc chưa kịp biết người vừa sang sông 
+ 
+ ừ làm một hạt sương rơi 
+ vương lên mắt biếc rối bời lòng nhau 
+ ừ làm cơn gió thoảng mau 
+ đong đưa mây trắng vờn nhau trưa hè 
+ 
+ gieo vào đâu hỡi lá ơi 
+ để xanh tươi một khoảng trời riêng ta 
+ thu hà nội mối giao hòa 
+ khát khao về giữa bao la nghĩa tình 
+ thu xa rồi đến thu gần 
+ sài gòn hà nội ngàn lần nhớ thương 
+ 
+ trời liêu xiêu cánh bướm bay 
+ gió thu vương tóc rối cỏ may 
+ vành trăng nét vẽ trang đài nét duyên 
+ vành nón hạ e nghiêng 
+ nét duyên xanh thắm trời nguyền ngẩn ngơ 
+ thu mơ cánh cửa đợi chờ 
+ mùa thu thắp lửa nắng ngơ ngẩn vàng 
+ ngày thu ơi gọi xuân sang 
+ hè nay hoa sữa ngập tràn nơi em 
+ thu sang chiều thắm lạ êm 
+ gió thu man mác bên thềm ta đi 
+ 
+ kể từ ngày ấy yêu say 
+ con tim thổn thức cả ngày nhớ mong 
+ mưa thu xóa quyện cõi lòng 
+ mênh mang sóng biển mãi không lời ái ân
+ Accuracy, tensor([[ 0.5051, -0.4223]], grad_fn=<AddmmBackward>) 
+
+===========================================
+nhớ mong hà nội muốn về gặp em 
+ 
+ càng già càng dẻo càng dai 
+ càng gãy chân chõng càng sai chân giường 
+ 
+ khôn ngoan đối đáp người ngoài 
+ gà cùng một mẹ chớ hoài đá nhau 
+ 
+ trăm năm làm được gì đâu 
+ vừa chớp mắt đã bể dâu bơ phờ 
+ giàu sang như sóng vỗ bờ 
+ triều cường có lúc lại trơ cát vàng 
+ cuộc đời rồi sẽ sang trang 
+ một đêm nằm mộng vội vàng mà ghê 
+ bừng tỉnh khi thấy còn mê 
+ mở to con mắt bốn bề tay không 
+ tôi ngồi khóc với dòng sông 
+ nắng khô cả mắt mưa không muốn về 
+ sông lô còn một lời thề 
+ bên bồi bên lở mẩn mê bao người 
+ bão giông thì bão giông rồi 
+ xin đừng ai lấy của trời làm riêng 
+ 
+ mới hay có chuyện lạ đời 
+ nam thanh nữ tú nhiều người đến đây 
+ sờ bia cầu gặp vận may 
+ học hành đỗ đạt mai này làm quan 
+ có người còn thấy lạy van 
+ đặt tiền hối lộ mong ân cụ rùa 
+ dựng bia ý nguyện người xưa 
+ nêu gương hiền sĩ giúp vua cứu đời 
+ còn ai cậy của cậy người 
+ chỉ lo trục lợi cho đời cười chê 
+ ta lên văn miếu thăm bia
+ Accuracy, tensor([[-3.5816,  3.1400]], grad_fn=<AddmmBackward>) 
+
+===========================================
+đường xa khát nước lụy cô bán hàng 
+ thị mầu phải vạ lụy làng 
+ lỡ duyên em phải lụy vòng tay anh 
+ cánh chim lụy bầu trời xanh 
+ bởi chiều bồ nhí nên anh lụy tình 
+ có bao nỗi oan trên đời 
+ oan nào bằng người yêu người mà oan 
+ thị mầu yêu tiểu kính tâm 
+ quá yêu yêu vụng nhớ thầm nhà sư 
+ vào chùa cũng niệm nam mô 
+ niệm phật thì ít liếc sư thì nhiều 
+ người đâu yêu đến là yêu 
+ bỏ kinh bỏ mõ em chiều em thương 
+ lòng em những vấn cùng vương 
+ nhụy hồng em còn ngậm sương đợi người 
+ xin đừng để phí của trời 
+ với kinh với mõ với đời nam mô 
+ ai hay sư là tiểu thư 
+ bởi oan tình phải xin tu ở chùa 
+ trốn đời đời đời có buông tha 
+ hết oan tình đời lại sa bẫy tình 
+ thương cô mầu lại thương mình 
+ vì yêu nên đã vô tình hại nhau 
+ sợi râu chàng làm em đau 
+ nỗi oan tình ngàn đời sau lệ tràn 
+ 
+ chơi hoa cho biết mùi hoa 
+ cầm cân cho biết cân già cân non 
+ 
+ vắng em buồn lắm ai ơi 
+ vào ra thơ thẩn nhìn trời đổ mưa
+ Accuracy, tensor([[-3.6488,  3.1862]], grad_fn=<AddmmBackward>) 
+
+===========================================
+còn ta vẫn chẳng khác nào ta xưa 
+ lợi danh vẫy gọi bốn mùa 
+ đến đi như tiếng chuông chùa boong ngân 
+ mặc cho mây gió xoay vần 
+ ghét yêu xin hãy đôi lần thả bay 
+ tỉnh mê cũng một cơn say 
+ rằm trăng nguyệt tận cho đầy vòng trôi 
+ và tôi em nữa và người 
+ cuối đường chợt hiểu lẽ đời sắc không 
+ ý tưởng bài thơ hay quá 
+ hy vọng không làm phật lòng tác giả 
+ vần thơ sao khác lẽ trời 
+ có gì đâu nước muôn đời lặn im 
+ sự này ắt hẳn khó tìm 
+ khác gì cái sự mò kim ôi dào 
+ tiếng ve nó đã chìm vào 
+ chìm vào cái đoạn khơi mào lặng thinh 
+ 
+ tính rằng sông nước cát lầm 
+ kiếp này ai lại còn cầm gặp đây 
+ ông bà trông mặt cầm tay 
+ dung quang chẳng khác chi ngày bước ra 
+ bấy chầy dãi nguyệt dầu hoa 
+ mười phần xuân có gầy ba bốn phần 
+ nỗi mừng biết lấy chi cân 
+ lời tan hợp chuyện xa gần thiếu đâu 
+ hai em hỏi trước han sau 
+ đứng trông chàng cũng trở sầu làm tươi 
+ 
+ gió đưa chiếc lá vàng rơi 
+ đặt thành dấu hỏi chơi vơi trong chiều 
+ đặt từ vách đá thềm rêu
+ Accuracy, tensor([[-3.5794,  3.1191]], grad_fn=<AddmmBackward>) 
+
+===========================================
